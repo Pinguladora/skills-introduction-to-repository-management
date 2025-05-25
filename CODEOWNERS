@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Pinguladora
+/src/backend/database.py      @Pinguladora
+/src/backend/routers/auth.py  @Pinguladora
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Pinguladora
